@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href=""?>
+<suite name="Master Suite">
+  <suite-files>
+ <suitefile path="C:\Users\prana\eclipse-workspace\Maven_Code\Second.xml"></suitefile>
+ <suitefile path="C:\Users\prana\eclipse-workspace\Maven_Code\Third.xml"></suitefile>
+</suite-files>
+</suite> <!-- Suite -->
